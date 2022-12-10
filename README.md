@@ -8,4 +8,4 @@
  - Simulation video for hybrid reciprocal velocity obstacle (HRVO): 
  ![HRVO](https://user-images.githubusercontent.com/103329531/206858041-9f0598bd-eee4-4a97-90ef-94e8a6bf3929.gif)
  
- - To reproduce the above results, please run `ECE` and follow the on-screen instructions. The necessary packages are listed in 
+ - To reproduce the above results, please run `ECE6563_Project_Final_Code.py` and follow the on-screen instructions. The necessary packages are listed in `requirements.txt`.
