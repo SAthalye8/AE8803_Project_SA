@@ -1,2 +1,1 @@
-# ECE6563_Project
-ECE 6563 Networked Control Systems Project (Fall 2022)
+# ECE6563 Networked Control Systems Project Code (Fall 2022)
