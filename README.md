@@ -19,5 +19,6 @@
   python3 ECE6563_Project_Final_Code.py
   ```
   - Follow the on-screen instructions. Input `1` for velocity obsacle, `2` for reciprocal velocity obstacle, and `3` for hybrid reciprocal velocity obtacle. The script with output a video and a gif file of the simulation.
+  - Code adapted from: https://github.com/MengGuo/RVO_Py_MAS
 
  
