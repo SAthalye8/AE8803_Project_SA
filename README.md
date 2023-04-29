@@ -1,4 +1,7 @@
 # AE8803 Project Code and Results (Spring 2023)
+### Centralized Approaches
+- Safe-interval Path Planning
+
 ### Decentralized Approaches
  - Velocity obstacle (VO):
  ![VO](https://user-images.githubusercontent.com/103329531/206857905-3a6b6442-da06-4254-8b1d-a8de3f5e57ca.gif)
