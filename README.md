@@ -1,6 +1,10 @@
 # AE8803 Project Code and Results (Spring 2023)
 ### Centralized Approaches
-- Safe-interval Path Planning
+- Safe-interval Path Planning (SIPP)
+![sipp](https://user-images.githubusercontent.com/103329531/235287490-491df5c4-34f3-4ea6-aab1-b054ae5956c0.gif)
+
+- Conflict-based Search (CBS)
+![cbs](https://user-images.githubusercontent.com/103329531/235287498-cb8a709f-1319-4921-9af6-c88278a985e7.gif)
 
 ### Decentralized Approaches
  - Velocity obstacle (VO):
